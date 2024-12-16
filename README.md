@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Ri Happy - Front-end do Zero | #1 Detona Ralph
+# Ri Happy - Front-end do Zero #1 | Detona Ralph
 
 ## 1️⃣ Objetivo
 Desenvolver um jogo inspirado na animação *Detona Ralph*, da Disney, enquanto aprendemos os fundamentos de HTML, CSS e JavaScript.
@@ -8,13 +8,17 @@ Desenvolver um jogo inspirado na animação *Detona Ralph*, da Disney, enquanto 
 ## 2️⃣ Descrição
 Este projeto foi realizado durante o Bootcamp **Ri Happy - Front-end do Zero**, oferecido pela **Digital Innovation One (DIO)**.
 
-O bootcamp inclui:
-
-- **Aulas teóricas:** com explicações e exercícios práticos.
-- **Desafios de código:** para aplicar os conceitos ensinados na resolução de desafios.
-- **Projetos guiados com mentoria:** para enriquecer o portfólio com projetos práticos.
-
 A atividade foi conduzida pelo instrutor **Felipe Aguiar**, e os recursos utilizados (áudios, imagens, etc.) estão disponíveis no repositório oficial da **DIO**.
+
+O objetivo principal foi explorar diversos conceitos fundamentais de JavaScript para criar a lógica e a interatividade de um jogo simples.
+
+O script gerencia o estado do jogo, manipula elementos da interface, utiliza temporizadores para controlar o tempo do jogo, responde a eventos do usuário e reproduz sons para enriquecer a experiência.
+
+Entre os diversos conceitos abordados, vale destacar:
+
+- **Manipulação do DOM:** Acesso e manipulação dinâmica de elementos HTML;
+- **Gerenciamento de Estado:** Organização do jogo por meio do objeto <code>state</code>;
+- **Funções Modulares:** Separação de responsabilidades em funções específicas;
 
 ## 3️⃣ Principais Modificações
 Implementei as seguintes mudanças no HTML e CSS:
@@ -43,7 +47,7 @@ Implementei as seguintes mudanças no HTML e CSS:
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao instrutor Felipe Aguiar e à equipe da DIO pelo conteúdo de alta qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
+Agradeço ao instrutor **Felipe Aguiar** e à equipe da **DIO** pelo conteúdo de altíssima qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
